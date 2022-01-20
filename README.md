@@ -9,6 +9,7 @@ Datasets in Bilskie et al. (2022) in Earth's Future
 This geodatabase contains building damage loss for residential buildings, displaced people, and people requiring shelter at the census block level under a present day sea level and a low (0.2 m), intermediate-low (0.5 m), intermediate-high (1.2 m), and high (2.0 m) rise in sea level (baseline year of 1992) [[1]](#1).
 
 The filenames are organized as follows:
+
 Building damage - Region_ReturnPeriod_SLRScenario_BldDamLoss_RES
 
 Region 1 = Wakulla, Frankling, and Gulf Counties, FL
