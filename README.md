@@ -14,7 +14,7 @@ This work is licensed under a
 
 When using this dataset, please cite the following:
 1. M.V. Bilskie, D. Del Angel, D. Yoskowitz, S.C. Hagen (2022), Future Flood Risk Exacerbated by the Dynamic Impacts of Sea Level Rise Along the Northern Gulf of Mexico, **Earth's Future**, Revised & Resubmit.
-2. Bilskie, M. (2022). Flood risk Data Set for the northern Gulf of Mexico (Version 1.0.0) [Data]. https://doi.org/10.5281/zenodo.5884081
+2. Bilskie, M., Del Angel, D., Yoskowitz, D., & Hagen, S. (2022). Flood risk Data Set for the northern Gulf of Mexico (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.5884081.
 
 
 # Metadata
