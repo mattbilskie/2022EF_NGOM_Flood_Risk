@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 authors:
-  - family-names: Bilskie
-    given-names: M.V.
+  - family-names: Bilskie, Del Angel
+    given-names: M.V., D.
 title: "Flood risk Data Set for the northern Gulf of Mexico"
 version: 1.0.0
 doi: 10.5281/zenodo.5884081
