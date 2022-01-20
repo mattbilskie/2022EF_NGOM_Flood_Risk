@@ -1,4 +1,7 @@
+# DOI
 [![DOI](https://zenodo.org/badge/450105833.svg)](https://zenodo.org/badge/latestdoi/450105833)
+
+# License
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
@@ -11,6 +14,7 @@ This work is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
+# Citations
 
 When using this dataset, please cite the following:
 1. M.V. Bilskie, D. Del Angel, D. Yoskowitz, S.C. Hagen (2022), Future Flood Risk Exacerbated by the Dynamic Impacts of Sea Level Rise Along the Northern Gulf of Mexico, **Earth's Future**, Revised & Resubmit.
